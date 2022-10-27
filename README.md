@@ -1,4 +1,4 @@
-remote_theme:  Jekyll
+theme:  Jekyll
 
 #   Collect-it
 
