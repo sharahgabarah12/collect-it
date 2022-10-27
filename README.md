@@ -2,12 +2,12 @@
 
 ## Goal :
 
-Try to get as many treasure as you can
+Try to get as many treasure as you can don't get the swords 
 
 ## Control :
 
-Use the mouse or use touch to mave the boy don't get the swords 
+Use the mouse or touch to mave the bit back and forth
 
 ## Let's play :
 
-[project-template-device-compatible-main (1).zip](https://github.com/sharahgabarah12/collect-it/files/9883417/project-template-device-compatible-main.1.zip)
+http://127.0.0.1:8887
