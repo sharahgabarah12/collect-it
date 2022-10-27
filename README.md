@@ -1,3 +1,5 @@
+theme : Jekyll
+
 # collect-it
 
 ## Goal :
