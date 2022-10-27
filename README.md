@@ -12,7 +12,6 @@ Use the mouse or touch to mave the bit back and forth
 ## Images 
 
 ![Runner-2](https://user-images.githubusercontent.com/116237599/198413772-f8cd1a62-3fd4-4dc4-9cea-c2b392f98405.png)
-![Runner-1](https://user-images.githubusercontent.com/116237599/198413787-61b2b3b6-8d5b-47f9-a564-af8deae23122.png)
 ![diamonds](https://user-images.githubusercontent.com/116237599/198413831-d1b943e8-30e8-46af-af14-40b955d7e54c.png)
 ![sword](https://user-images.githubusercontent.com/116237599/198413838-bd2279af-b28e-45fe-a77d-fa8f910af141.png)
 ![Road](https://user-images.githubusercontent.com/116237599/198413869-9806c491-c416-48f2-8fbb-4ab8b35048fa.png)
