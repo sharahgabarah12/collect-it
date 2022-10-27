@@ -1,5 +1,5 @@
 
-# collect-it
+#   Collect-it
 
 ## Goal :
 
@@ -11,4 +11,6 @@ Use the mouse or touch to mave the bit back and forth
 
 ## Let's play :
 
-http://127.0.0.1:8887
+https://github.com/sharahgabarah12/collect-it.git
+
+download the zip and play the game 
