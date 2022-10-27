@@ -1,6 +1,4 @@
 
-#   Collect-it
-
 ## Goal :
 
 Try to get as many treasure as you can don't get the swords 
