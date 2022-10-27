@@ -1,4 +1,3 @@
-theme : Jekyll
 
 # collect-it
 
